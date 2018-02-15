@@ -1,0 +1,15 @@
+D:\vb\task3\task3\bin\Debug\task3.exe.config
+D:\vb\task3\task3\bin\Debug\task3.exe
+D:\vb\task3\task3\bin\Debug\task3.pdb
+D:\vb\task3\task3\bin\Debug\task3.xml
+D:\vb\task3\task3\obj\Debug\task3.frmFileWorks.resources
+D:\vb\task3\task3\obj\Debug\task3.frmDisplayUsers.resources
+D:\vb\task3\task3\obj\Debug\task3.frmNews.resources
+D:\vb\task3\task3\obj\Debug\task3.Resources.resources
+D:\vb\task3\task3\obj\Debug\task3.frmPhoto.resources
+D:\vb\task3\task3\obj\Debug\task3.frmUser.resources
+D:\vb\task3\task3\obj\Debug\task3.vbproj.GenerateResource.Cache
+D:\vb\task3\task3\obj\Debug\task3.exe
+D:\vb\task3\task3\obj\Debug\task3.xml
+D:\vb\task3\task3\obj\Debug\task3.pdb
+D:\vb\task3\task3\bin\Debug\Oracle.DataAccess.dll
